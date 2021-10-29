@@ -3,7 +3,7 @@
 *   Version 1.0: Snap and APT, 28 October, 2021.
 *   Version 1.1: Snap, Flatpak and APT, 29 October, 2021.
 *   
-*   This can also be done with a long alias and put in ~./bash_aliases,
+*   This can also be done with a long alias and put in ~/.bash_aliases,
 *   but I prefer this to be more elegant.
 */
 
