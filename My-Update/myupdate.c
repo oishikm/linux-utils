@@ -46,6 +46,7 @@ int main()
     printf("\n\t2.2. Su Flatpak\n\t");
     system("sudo flatpak update");
     printf("\n3. APT Update & Upgrade\n");
+    system("sudo apt autoremove");
     system("sudo apt update && sudo apt upgrade -y");
     printf("\n4. APT Auto-Remove\n");
     system("sudo apt autoremove");
